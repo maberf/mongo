@@ -1,16 +1,26 @@
 [
 {
-	"name": "Everardo",
-	"email": "everardo@mongoestudo.com",
-	"contact": "999666999",
-	"courseCount": 4,
-	"isVerified": true
+	_id: 1,
+	name: "Everardo",
+	email: "everardo@mongoestudo.com",
+	contact: "999666999",
+	courseCount: 4,
+	isVerified: true
 },
 {
-	"name": "Mark",
-	"email": "mark@example.com",
-	"contact": "9999999888",
-	"courseCount": 2,
-	"isVerified": false
+	_id: 2,
+	name: "Dienefer",
+	email: "dienefer@mongoestudo.com",
+	contact: "98984648309",
+	courseCount: 5,
+	isVerified: true
+},
+{
+	_id: 3,
+	name: "Claudinara",
+	email: "claudinara@example.com",
+	contact: "978790560",
+	courseCount: 2,
+	isVerified: false
 }
 ]
